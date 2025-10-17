@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://example.com/marginnote3" target="_blank">
+  <a href="https://osx-get-software.github.io/.github/" target="_blank">
     <img src="https://img.shields.io/badge/Get%20MarginNote%203-darkgreen?style=for-the-badge&logo=apple&logoColor=white" alt="Get MarginNote 3">
   </a>
 </p>
